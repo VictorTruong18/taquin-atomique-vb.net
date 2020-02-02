@@ -1,0 +1,15 @@
+C:\Users\Victor\Documents\Paris Descartes\Visual Basic\Projet_IHMVB_NouvelTentative\IHMVB\IHMVB\bin\Debug\IHMVB.exe.config
+C:\Users\Victor\Documents\Paris Descartes\Visual Basic\Projet_IHMVB_NouvelTentative\IHMVB\IHMVB\bin\Debug\IHMVB.exe
+C:\Users\Victor\Documents\Paris Descartes\Visual Basic\Projet_IHMVB_NouvelTentative\IHMVB\IHMVB\bin\Debug\IHMVB.pdb
+C:\Users\Victor\Documents\Paris Descartes\Visual Basic\Projet_IHMVB_NouvelTentative\IHMVB\IHMVB\bin\Debug\IHMVB.xml
+C:\Users\Victor\Documents\Paris Descartes\Visual Basic\Projet_IHMVB_NouvelTentative\IHMVB\IHMVB\obj\Debug\IHMVB.vbprojAssemblyReference.cache
+C:\Users\Victor\Documents\Paris Descartes\Visual Basic\Projet_IHMVB_NouvelTentative\IHMVB\IHMVB\obj\Debug\IHMVB.Accueil.resources
+C:\Users\Victor\Documents\Paris Descartes\Visual Basic\Projet_IHMVB_NouvelTentative\IHMVB\IHMVB\obj\Debug\IHMVB.Resources.resources
+C:\Users\Victor\Documents\Paris Descartes\Visual Basic\Projet_IHMVB_NouvelTentative\IHMVB\IHMVB\obj\Debug\IHMVB.Parametres.resources
+C:\Users\Victor\Documents\Paris Descartes\Visual Basic\Projet_IHMVB_NouvelTentative\IHMVB\IHMVB\obj\Debug\IHMVB.vbproj.GenerateResource.cache
+C:\Users\Victor\Documents\Paris Descartes\Visual Basic\Projet_IHMVB_NouvelTentative\IHMVB\IHMVB\obj\Debug\IHMVB.vbproj.CoreCompileInputs.cache
+C:\Users\Victor\Documents\Paris Descartes\Visual Basic\Projet_IHMVB_NouvelTentative\IHMVB\IHMVB\obj\Debug\IHMVB.exe
+C:\Users\Victor\Documents\Paris Descartes\Visual Basic\Projet_IHMVB_NouvelTentative\IHMVB\IHMVB\obj\Debug\IHMVB.xml
+C:\Users\Victor\Documents\Paris Descartes\Visual Basic\Projet_IHMVB_NouvelTentative\IHMVB\IHMVB\obj\Debug\IHMVB.pdb
+C:\Users\Victor\Documents\Paris Descartes\Visual Basic\Projet_IHMVB_NouvelTentative\IHMVB\IHMVB\obj\Debug\IHMVB.Jeu.resources
+C:\Users\Victor\Documents\Paris Descartes\Visual Basic\Projet_IHMVB_NouvelTentative\IHMVB\IHMVB\obj\Debug\IHMVB.Score.resources
